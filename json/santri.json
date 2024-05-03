@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "user_id": 1,
+            "halaqoh_id": 1,
+            "nama": "Joko Winarno",
+            "umur": 22,
+            "gender": "Laki-Laki",
+            "sekolah": "Universitas Indonesia",
+            "alamat": "Jalan Raya Cimanggis",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "foto_profil": "https://source.unsplash.com/random/200x200?person-portrait-man"
+        },
+        {
+            "id": 2,
+            "user_id": 1,
+            "halaqoh_id": 1,
+            "nama": "Jarwo Satrio",
+            "umur": 22,
+            "gender": "Laki-Laki",
+            "sekolah": "Universitas Padang Panjang",
+            "alamat": "Jalan Gendang Batu",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "foto_profil": "https://source.unsplash.com/random/200x200?person-portrait-man"
+        },
+        {
+            "id": 3,
+            "user_id": 1,
+            "halaqoh_id": 1,
+            "nama": "Wahyudi",
+            "umur": 22,
+            "gender": "Laki-Laki",
+            "sekolah": "Universitas Surat Thani",
+            "alamat": "Kecamatan Rempang",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "foto_profil": "https://source.unsplash.com/random/200x200?person-portrait-man"
+        },
+        {
+            "id": 4,
+            "user_id": 1,
+            "halaqoh_id": 2,
+            "nama": "Hari Surya",
+            "umur": 16,
+            "gender": "Laki-Laki",
+            "sekolah": "SMA Negeri 1 Tarutung",
+            "alamat": "Kecamatan Tarutung",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "foto_profil": "https://source.unsplash.com/random/200x200?person-portrait-man"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "data": [
+        { 
+            "value":"pertama",
+            "label": "Pertama" 
+        },
+        {
+            "value":"kedua",
+            "label": "Kedua"
+        },
+        {
+            "value":"ketiga",
+            "label": "Ketiga"
+        },
+        {
+            "value":"keempat",
+            "label": "Keempat"
+        },
+        {
+            "value":"kelima",
+            "label": "Kelima"
+        }
+    ]
+}

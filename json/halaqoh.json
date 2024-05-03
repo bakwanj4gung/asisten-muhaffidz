@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "nama": "Abu Bakar"
+        },
+        {
+            "id": 2,
+            "nama": "Umar bin Khattab"
+        },
+        {
+            "id": 3,
+            "nama": "Utsman bin Affan"
+        },
+        {
+            "id": 4,
+            "nama": "Ali bin Abi Thalib"
+        },
+        {
+            "id": 5,
+            "nama": "Mu'awiyah bin Abi Shafyan"
+        }
+    ]
+}
